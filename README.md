@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @versatilemustafa
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on linux
+- I'm interested in C Language
 - 📫 How to reach me syedmustafa019@gmail.com
 
 <!---
