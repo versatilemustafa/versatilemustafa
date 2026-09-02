@@ -4,7 +4,7 @@ versatilemustafa/versatilemustafa is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi, I’m Mustafa Mohammed Syed, a Game Designer and Programmer based in Visby, Sweden. I'm currently pursuing a Bachelor's degree in Game Design and Programming at Uppsala University. Passionate about technology and creative collaboration, I enjoy connecting with like-minded individuals to share insights and work on exciting projects. I bring skills in HTML, C++, and GitHub, 
+Hi, I’m Mustafa Mohammed Syed, a Game Designer and Programmer based in Stockholm, Sweden. I'm currently pursuing a Bachelor's degree in Game Design and Programming at Uppsala University. Passionate about technology and creative collaboration, I enjoy connecting with like-minded individuals to share insights and work on exciting projects. I bring skills in HTML, C++, and GitHub, 
 
 
 ## 🌐 Socials:
